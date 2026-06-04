@@ -15,3 +15,7 @@ Help please
 ## Deployment
 
 Just do it man
+
+### Copyright
+
+2014 git training
