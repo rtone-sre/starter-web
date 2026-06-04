@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 Help please
+Do a fork
 ## Deployment
 
 Just do it man
