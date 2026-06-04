@@ -4,7 +4,8 @@ This repository is for showing how Git and GitHub work
 
 bla bla blabla
 
-Adding another line to rebase
+Adding another line to rebase, then
+morechanges 
 
 ## Purpose
 
