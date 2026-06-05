@@ -22,4 +22,4 @@ Just do it man
 
 ### Copyright
 
-2014 git training
+2014 git training. All rights reserved
